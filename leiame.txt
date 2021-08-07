@@ -1,0 +1,160 @@
+ 				 Owl v4.0
+			         """"""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Nome - Owl
+Jogo - Black Belt Challenger
+Versão - 4.0
+Autor - Ixnaydk
+Site - www.paodemugen.com.br
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Novidades da versão v4.0 - 21/04/2007
+
+ - Velocidades Ajustadas
+ - Códigos Otimizados
+ - Win Pose vs Ixnaydk Rock NGBC
+ - Intro vs Ixnaydk Terry 2k3
+ - Mais ajustes para rodar no Linux
+ - Danos ajustados
+ - Tempos ajustados
+ - Removido golpes exclusivos da IA
+ - Mais Sons
+ - Menos bugs :P
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Novidades da versão v3.5 (Final?) - 01/08/2005
+
+ - Problemas com os comandos no Linux resolvido
+ - Mais sons
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Novidades da versão v3.0 - 09/04/2005
+
+ - Funciona no Linux e no Dos
+ - Ativação de IA refeita para funcionar no Linux
+ - Otimização de algumas coisas
+ - Team Super - Ryu (por Ixnaydk e SAM!)
+ - Team Super - Ikuzo (por Ixnaydk e SAM!)
+ - Team Super - Ixnaydk (por Ixnaydk)
+ - Team Super - Sakura (por Ixnaydk)
+ - Team Super - Black Dragon (por Midnight Spirit e Trial Force)
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Novidades da versão v2.0 - 23/01/2004
+
+ - Intro vs Ixnaydk Zero
+ - Nova Intro - Explosão no Chão
+ - Fogarel, Novo Super com um esquema de tentativa
+ - Modo RPG com 7 Golpes Novos
+ - Guard Crush
+ - Dizzy Meter
+ - Muitos sons adicionados
+ - Corrigido Bug em todos Helpers fixos
+ - Goblin Counter
+ - Random Taunt Counter
+ - Intro igual a do jogo :P
+ - Sistema Inferno
+ - Intro vs Black Dragon
+ - Mais sprites ripadas
+ - Super "Goblin Fire Rush" agora tem mais de 150 variações!!!
+ - Novo Super adicionado, Vulcanic Wave
+ - Novo Especial adicionado, Fire Wall
+ - Inteligência Artificial Melhorada
+ - Combos :P
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+-Owl é um char de 4 botões (5 com o Start)
+
+-Golpes Básicos
+ - Socos - x,y
+ - Chutes - a,b
+ - Provocação - start
+
+-Especiais
+ - Goblin Counter - a+b (quando estiver defendendo)
+ - Pequeno Lança Chamas - D, DF, F, x 
+ - Goblin Rush - D, DF, F, y
+ - Choque - D, DF, F, x+y
+ - Pega! - D, DF, F, a
+ - Bola de Ferro - D, DF, F, b
+ - Bola de Fogo Médio - D, DB, B, x
+ - Bola de Fogo Pequena - D, DB, B, y
+ - Tornado de Fogo - D, DB, B, a
+ - Fire Wall - D, DF, F, a
+
+-Supers
+ - Lança Chamas Fraco - D, DF, F, D, DF, F, x
+ - Explosão - D, DF, F, D, DF, F, a
+ - Goblin Fire Rush - D, DF, F, D, DF, F, y
+ - Giant Ball - D, DF, F, D, DF, F, b
+ - Lança Chamas Forte - D, DB, B, D, DB, B, x
+ - Bolas de Fogo - D, DB, B, D, DB, B, a
+ - Owl Fire Wave - D, DB, B, D, DB, B, b 
+ - Vulcanic Wave - D, DF, F, D, DB, B, a
+ - Fogarel(*) - D, DB, B, D, DF, F, y
+ - Goblin Cannon - ????????? :P
+
+-Team Supers
+ - Goblin Hadouken - D, DF, F, D, DB, B, x (Ryu por Ixnaydk e SAM!)
+
+Golpes marcados com (*) são do modo RPG
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Modo RPG
+ 
+ O Owl tem um modo em que ele parece um carinha de RPG, ele passa de level, ganha novos ataques, é possivel que os golpes falhe (tipo algun jogos de RPG) e outras coisas que pode acontecer.
+ Para jogar nesse modo escolha o Owl segurando o botão start.
+ Alguns golpes exclusivos desse modo e a quantidade de experiência que precisa para usa-las:
+
+- Combo A - Soco Fraco (250 de Experiência)
+- Combo B - Soco Fraco (350 de Experiência)
+- Bola de Fogo Pequena (1000 de Experiência)
+- Bola de Fogo Média (1500 de Experiência)
+- Lança Chamas - Alternativo (3000 de Experiência)
+- Guard Destroyer - Alternativo (800 de Experiência)
+- Fogarel (3000 de Experiência)
+ 
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Sistema Inferno
+
+ Sistema Inferno é uns fogos extras que acontecem em certos golpes do Owl.
+ Os golpes em que pode acontecer isso são:
+
+- Bola de Fogo Pequena
+- Bola de Fogo Médio
+- Bolas de Fogo (3 variações)
+- Fire Wall
+
+""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+- Agradecimentos
+
+Midnight Spirit - me ajudo num porre de coisas, editou ele defendendo, as winposes e várias coisas
+Trial Force - sempre me incentivando e ta hospedando meu char... denovo :P
+MAXIMUS - outro cara que me ajudo muito, sempre achando erros no char e me ajudando a corrigir eles
+Mambojambo - valeu por ter editado a corrida dele
+Vixen - valeu por ter editado ele levantando
+Xursinix - ripo várias coisas do CvS pra mim
+Jaguarhx - o cara das idéias :P quase todos golpes foram feitos a partir das idéias dele
+Shuichi - usei aquele esquema de distância da Milus Lucia dele
+Chuck - editou vários sprites logo que eu comecei a fazer o char
+SmS - valeu pelos sons
+John MacEnroe, Dee Jack - pelas várias ideias e pela zuera de sempre :P
+Cavaleiro Negro - valeu pelas sprites e por ter testado o char
+Duende Macabro - valeu por ter achado aqueles erros
+Evil Kairi - pela grande idéia do HitWall e por ter testado o char
+Thraw, Winane, BlackJack - me ajudaram com o flood no debug
+Sunboy, MistikBlaze/Soldats - pelo código do Dizzy Meter
+Chocobo - pelo código do Guard Crush
+
+Aos caras que testaram e deram um porre de idéias
+- Lord Sephirot
+- ISB Parallax
+- Sub-Zero
+- Master Kay
+- SodonHID
+
+A você, por ter pego o Owl
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""   
+- Fiquem a vontade de usar qualquer código, sprite, som ou qualquer coisa desse char

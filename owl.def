@@ -1,0 +1,28 @@
+[Info]
+name = "Ixnaydk Owl"
+displayname = "Owl"
+versiondate = 21,04,2007
+mugenversion = 14,11,2001
+author = "Ixnaydk"
+pal.defaults = 6,3,4,2,5,1
+
+[Files]
+cmd = owl.cmd
+cns = owl.cns
+st = owl.cns
+stcommon = common1.cns
+sprite = owl.sff
+anim = owl.air
+sound = owl.snd
+pal1 = owl.act  
+pal2 = owl2.act
+pal3 = owl3.act
+pal4 = owl4.act
+pal5 = owl5.act
+pal6 = owl6.act
+pal7 = owl7.act  
+pal8 = owl8.act
+pal9 = owl9.act
+pal10 = owl10.act
+pal11 = owl11.act
+pal12 = owl12.act
